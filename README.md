@@ -5,7 +5,7 @@ Grande entusiasta da área da segurança da informação e com profundo interess
 
 ## Objetivo
 
-Desenvolvi grande paixão pela área de cibersegurança durante minha jornada e estudos na área de TI, e agora estou ansioso para atuar neste campo, especificamente na área de SOC(Security Operations Center) como um analista de nível 1.
+Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no mundo da TI, e agora estou ansioso para atuar neste campo, especificamente na área de SOC(Security Operations Center) como um analista de nível 1.
 
 ## Habilidades
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
