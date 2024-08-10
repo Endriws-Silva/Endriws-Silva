@@ -8,7 +8,6 @@ Grande entusiasta da área da segurança da informação e com profundo interess
 Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no mundo da TI, e agora estou ansioso para atuar neste campo, especificamente na área de SOC(Security Operations Center) como um analista de nível 1.
 
 ## Habilidades
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -19,14 +18,16 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
 | Case Management with TheHive                  | |
 | Scripting and Automation for Threat Mitigation | |
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+## Ferramentas
 
-### Network
+
+### Rede
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+
+
 </div>
 
 ### Endpoint
@@ -42,14 +43,12 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-## Certifications
+## Certificações
 
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-FCA%20Cybersecurity(NSE3)-003D72?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+
+
 </div>
 
-## Projects
+## Projetos
