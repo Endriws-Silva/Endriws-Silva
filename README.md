@@ -47,8 +47,15 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
 ## Certificações
 
 <div>
-<img src="https://img.shields.io/badge/-FCA%20Cybersecurity(NSE3)-6A0D91?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FCA%20Cybersecurity(NSE3)-6A0D91?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-FCF%20Cybersecurity(NSE1%2F2)-00ACC1?&style=for-the-badge&logo=Fortinet&logoColor=white" />
 
+</div>
+
+## Cursos
+
+<div>
+    <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 
 
 </div>
