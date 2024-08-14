@@ -23,6 +23,8 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
 
 ### Rede
 <div>
+    <img src="https://img.shields.io/badge/-Zabbix-D70040?&style=for-the-badge&logo=Zabbix&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Grafana-F58025?&style=for-the-badge&logo=Grafana&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
 
 
@@ -45,7 +47,8 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
 ## Certificações
 
 <div>
-<img src="https://img.shields.io/badge/-FCA%20Cybersecurity(NSE3)-003D72?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+<img src="https://img.shields.io/badge/-FCA%20Cybersecurity(NSE3)-6A0D91?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+
 
 
 </div>
