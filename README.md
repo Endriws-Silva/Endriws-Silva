@@ -9,14 +9,14 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
 
 ## Habilidades
 
-| Skill                                         | Associated Project         |
+| Habilidades                                         | Projeto ou curso associado        |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | |
-| Network Traffic Monitoring and Attack Detection | |
-| Security Automation with Shuffle SOAR         | |
-| Incident Response Planning and Execution      | |
-| Case Management with TheHive                  | |
-| Scripting and Automation for Threat Mitigation | |
+|                                          | |
+|                                          | |
+|                                          | |
+|                                          | |
+|                                          | |
+|                                          | |
 
 ## Ferramentas
 
@@ -31,7 +31,7 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
 
 </div>
 
-### Endpoint
+### Endpoint(EDR e XDR)
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
@@ -44,11 +44,28 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+### Frameworks
+<div>
+    <img src="https://img.shields.io/badge/-ISO%2027001-003D6B?&style=for-the-badge" />
+    
+</div>
+
+### Nuvem
+<div>
+    <img src="https://img.shields.io/badge/ISO%2027001-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+
+
+</div>
+
 ## Certificações
 
 <div>
     <img src="https://img.shields.io/badge/-FCA%20Cybersecurity(NSE3)-6A0D91?&style=for-the-badge&logo=Fortinet&logoColor=white" />
     <img src="https://img.shields.io/badge/-FCF%20Cybersecurity(NSE1%2F2)-00ACC1?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ISO%2027001%20(EXIN%20ISFS)-003D6B?&style=for-the-badge&logo=exin&logoColor=white" />
+    <img src="https://img.shields.io/badge/AZ-900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
 
 </div>
 
@@ -56,7 +73,7 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
 
 <div>
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-
+    
 
 </div>
 
