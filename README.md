@@ -52,8 +52,7 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
 
 ### Nuvem
 <div>
-    <img src="https://img.shields.io/badge/ISO%2027001-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
 
 </div>
