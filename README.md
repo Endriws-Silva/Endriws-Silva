@@ -21,7 +21,7 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
 ## Ferramentas
 
 
-### Rede
+### Rede/Monitoramento
 <div>
     <img src="https://img.shields.io/badge/-Zabbix-D70040?&style=for-the-badge&logo=Zabbix&logoColor=white" />
     <img src="https://img.shields.io/badge/-Grafana-F58025?&style=for-the-badge&logo=Grafana&logoColor=white" />
