@@ -2,7 +2,8 @@
 
 <a href="https://www.linkedin.com/in/endriws-silva-879a68256/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Analista de cibersegurança SOC/NOC
+Analista de Cibersegurança SOC/NOC, cursando técnologo em análise e desenvolvimente de sistema, técnico em informática para internet, técnico em manutenção e suporte em informática.
+Grande entusiasta da área da segurança da informação.
 
 
 ## Habilidades
