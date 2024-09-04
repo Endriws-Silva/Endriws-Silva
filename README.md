@@ -2,11 +2,8 @@
 
 <a href="https://www.linkedin.com/in/endriws-silva-879a68256/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Grande entusiasta da área da segurança da informação e com profundo interesse e dedicação em resolver problemas complexos.
+Analista de cibersegurança SOC/NOC
 
-## Objetivo
-
-Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no mundo da TI, e agora estou ansioso para atuar neste campo, especificamente com SOC(Security Operations Center) como um analista de nível 1.
 
 ## Habilidades
 
@@ -45,17 +42,17 @@ Desenvolvi grande paixão pela área de cibersegurança durante minha jornada no
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Frameworks
-<div>
-    <img src="https://img.shields.io/badge/-ISO%2027001-003D6B?&style=for-the-badge" />
-    
-</div>
-
 ### Nuvem
 <div>
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 
+</div>
 
+## Frameworks
+
+<div>
+    <img src="https://img.shields.io/badge/-ISO%2027001-003D6B?&style=for-the-badge" />
+    
 </div>
 
 ## Certificações
