@@ -1,4 +1,4 @@
-# Olá, eu sou o Endriws                                          <a href="https://tryhackme.com/p/Endriws"><img src="https://tryhackme-badges.s3.amazonaws.com/Endriws.png?4" alt="TryHackMe"></a>
+# Olá, eu sou o Endriws                                          <a href="https://tryhackme.com/p/Endriws"><img src="https://tryhackme-badges.s3.amazonaws.com/Endriws.png?5" alt="TryHackMe"></a>
 
 <a href="https://www.linkedin.com/in/endriws-silva-879a68256/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -38,9 +38,9 @@ Grande entusiasta da área da segurança da informação.
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-4B8BBE?&style=for-the-badge&logo=wazuh&logoColor=white" />
+    
+    
 </div>
 
 ### Nuvem
