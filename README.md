@@ -32,6 +32,8 @@ Grande entusiasta da área da segurança da informação.
 
 ### Endpoint(EDR e XDR)
 <div>
+    <img src="https://img.shields.io/badge/-Cisco_Secure_Endpoint-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_SecureX-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 
 </div>
