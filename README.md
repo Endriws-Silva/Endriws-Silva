@@ -18,15 +18,15 @@
 
 ## 🛠️Habilidades
 
-> Experiência em monitoramento com Wazuh, Zabbix, Grafana, Wireshark, Cisco Secure Endpoint e Cisco XDR.
+- > Experiência em monitoramento com Wazuh, Zabbix, Grafana, Wireshark, Cisco Secure Endpoint e Cisco XDR.
 
-> Conhecimento em Threat Intelligence usando VirusTotal, Any.Run, MISP, Abuse.ch, censys, Shodan e Hybrid Analysis.
+- > Conhecimento em Threat Intelligence usando VirusTotal, Any.Run, MISP, Abuse.ch, censys, Shodan e Hybrid Analysis.
 
-> Programação em Python e Shell Script para automação e desenvolvimento de ferramentas.
+- > Programação em Python e Shell Script para automação e desenvolvimento de ferramentas.
 
-> Aplicação dos frameworks de segurança NIST e MITRE ATT&CK para análise e mitigação.
+- > Aplicação dos frameworks de segurança NIST e MITRE ATT&CK para análise e mitigação.
 
-> Atuação em pentest com OSINT, exploração de vulnerabilidades (Metasploit, exploit development), pós-exploração (Meterpreter), enumeração ativa/passiva, escalada de privilégios, Nmap e BurpSuite.
+- > Atuação em pentest com OSINT, exploração de vulnerabilidades (Metasploit, exploit development), pós-exploração (Meterpreter), enumeração ativa/passiva, escalada de privilégios, Nmap e BurpSuite.
 
 ## 🧰Ferramentas
 
