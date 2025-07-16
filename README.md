@@ -18,27 +18,34 @@
 
 ## 🛠️Habilidades
 
-- > Experiência em monitoramento com Wazuh, Zabbix, Grafana, Wireshark, Cisco Secure Endpoint e Cisco XDR.
+- Monitoramento e análise de redes e sistemas.
 
-- > Conhecimento em Threat Intelligence usando VirusTotal, Any.Run, MISP, Abuse.ch, censys, Shodan e Hybrid Analysis.
+- Coleta e análise de informações para inteligência de ameaças.
 
-- > Programação em Python e Shell Script para automação e desenvolvimento de ferramentas.
+- Programação para automação e desenvolvimento de scripts.
 
-- > Aplicação dos frameworks de segurança NIST e MITRE ATT&CK para análise e mitigação.
+- Aplicação de frameworks de segurança para avaliação e mitigação de riscos.
 
-- > Atuação em pentest com OSINT, exploração de vulnerabilidades (Metasploit, exploit development), pós-exploração (Meterpreter), enumeração ativa/passiva, escalada de privilégios, Nmap e BurpSuite.
+- Realização de testes de invasão, incluindo reconhecimento, exploração e pós-exploração.
+
+- Enumeração ativa e passiva e escalada de privilégios.
 
 ## 🧰Ferramentas
 
+### 🛠️Pentest
+
+<div>
+<img src="https://img.shields.io/badge/-Metasploit-DB0000?&style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-Meterpreter-0078D7?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-FD4F00?&style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-BurpSuite-EB5424?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+</div>
 
 ### 🌐Rede/Monitoramento
 <div>
     <img src="https://img.shields.io/badge/-Zabbix-D70040?&style=for-the-badge&logo=Zabbix&logoColor=white" />
     <img src="https://img.shields.io/badge/-Grafana-F58025?&style=for-the-badge&logo=Grafana&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-
-
-
 </div>
 
 ### 🖥️Endpoint(EDR e XDR)
@@ -46,21 +53,31 @@
     <img src="https://img.shields.io/badge/-Cisco_Secure_Endpoint-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Cisco_SecureX-1BA0D7?style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-
 </div>
 
 ### 📊SIEM
 <div>
     <img src="https://img.shields.io/badge/-Wazuh-4B8BBE?&style=for-the-badge&logo=wazuh&logoColor=white" />
-    
-    
+</div>
+
+### 🔍Threat Intelligence
+
+<div>
+<img src="https://img.shields.io/badge/-VirusTotal-4CB8FF?&style=for-the-badge&logo=virustotal&logoColor=white" />
+<img src="https://img.shields.io/badge/-Any.Run-FF4500?&style=for-the-badge&logo=anydesk&logoColor=white" />
+<img src="https://img.shields.io/badge/-MISP-1E90FF?&style=for-the-badge&logo=mozilla&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shodan-000000?&style=for-the-badge&logo=mozilla&logoColor=white" />
+<img src="https://img.shields.io/badge/-Hybrid%20Analysis-FF0000?&style=for-the-badge&logo=mozilla&logoColor=white" />
+<img src="https://img.shields.io/badge/-AbuseIPDB-FF6600?&style=for-the-badge&logo=abuseipdb&logoColor=white" />
+<img src="https://img.shields.io/badge/-Censys-0052CC?&style=for-the-badge&logo=censys&logoColor=white" />
 </div>
 
 ### ☁️Nuvem
 <div>
     <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-
 </div>
+
+
 
 ## 📚Frameworks
 
